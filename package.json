@@ -1,0 +1,23 @@
+{
+  "name": "lg-tv-remotejs",
+  "version": "1.0.0",
+  "description": "WebOS app demo",
+  "main": "index.js",
+  "dependencies": {
+    "node-lgtv-api": "^0.9.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mario21ic/lg-tv-remotejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mario21ic/lg-tv-remotejs/issues"
+  },
+  "homepage": "https://github.com/mario21ic/lg-tv-remotejs#readme"
+}
